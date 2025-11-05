@@ -7,19 +7,19 @@ export function Hero() {
 
   const slides = [
     {
-      image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=800&fit=crop',
-      title: 'Publicidad Innovadora',
-      subtitle: 'Creamos campañas que conectan con tu audiencia'
+      image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=800&fit=crop',
+      title: 'Corte Láser y CNC',
+      subtitle: 'Elementos precisos en MDF, acrílico y materiales blandos'
     },
     {
-      image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=800&fit=crop',
-      title: 'Marketing Digital',
-      subtitle: 'Estrategias digitales que generan resultados'
+      image: 'https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=1200&h=800&fit=crop',
+      title: 'Impresión en Gran Formato',
+      subtitle: 'Lonetas, vinilos y avisos gigantes de alta calidad'
     },
     {
-      image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop',
-      title: 'Diseño Creativo',
-      subtitle: 'Identidades visuales que destacan'
+      image: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=1200&h=800&fit=crop',
+      title: 'Fabricación Industrial',
+      subtitle: 'Inyección de PVC para manillas y elementos personalizados'
     }
   ];
 

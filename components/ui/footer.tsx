@@ -6,7 +6,8 @@ export function Footer() {
           <div className="flex items-center space-x-4 mb-4 md:mb-0">
             <div>
               <h3 className="text-lg font-semibold text-white">Grupo Empresarial J4</h3>
-              <p className="text-sm text-gray-400">Publicidad en Cúcuta, Colombia</p>
+              <p className="text-sm text-gray-400 font-noto">Cúcuta, Norte de Santander, Colombia</p>
+              <p className="text-xs text-gray-500 font-noto">Sedes en múltiples ciudades</p>
             </div>
           </div>
           <div className="flex space-x-6">
@@ -22,7 +23,7 @@ export function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-          <p className="text-sm text-gray-400">
+          <p className="text-sm text-gray-400 font-noto">
             © 2024 Grupo Empresarial J4. Todos los derechos reservados.
           </p>
         </div>

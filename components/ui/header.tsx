@@ -27,7 +27,7 @@ export function Header() {
             height={100}
             className="rounded-lg"
           />
-          
+
         </div>
         <nav className="hidden md:flex space-x-6">
           <Link href="#inicio" className="text-white hover:text-gray-300 transition-colors">
